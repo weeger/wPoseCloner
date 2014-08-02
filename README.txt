@@ -1,0 +1,6 @@
+- Install wPoseCloner plugin and restart C4D R15
+- Select source "Character" object or one of his controller (hand box, finger rig, etc...)
+- Open this dialog box into plugins > wPoseCloner
+- Click on "Copy pose" button
+- Select target "Character" object or one of his controller (hand box, finger rig, etc...)
+- Click on "Paste pose" button

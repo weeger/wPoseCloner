@@ -1,0 +1,9 @@
+// C4D-StringResource
+// Identifier	Text
+
+STRINGTABLE Owposecloner
+{
+	Owposecloner "wPoseCloner";
+    W_POSECLONER_COPY "Copy";
+    W_POSECLONER_PASTE "Paste";
+}
